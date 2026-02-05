@@ -3,4 +3,4 @@
 - 🔭 I’m currently working on [chilloutat](https://chilloutat.com/).It's a startup initiative aimed at building an open, community-driven platform to enhance tourism experiences.
 - 📫 How to reach me: 
         [Linkedin](https://www.linkedin.com/in/parthtailor10/) 
-        [email](parthtaylor10@gmail.com)
+        [email](mailto:parthtaylor10@gmail.com)
